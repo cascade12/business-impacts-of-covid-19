@@ -22,15 +22,17 @@
 </div>
 
 
-<! insert image 1 tableau visual, caption>
+<! -- make image 1 tableau visual, accessible caption>
+<img id="image1" src="image1" alt="Unemployment Data" width="1000" height="300">
+
 <p font size=3>
 
 </p>
 
-<! insert image 2 visual about wanting to work remotely>
+<! -- insert image 2 visual about wanting to work remotely>
 
 
-<! insert power bi visuals>
+<! -- insert power bi visuals>
 </body>
 
 </html>
