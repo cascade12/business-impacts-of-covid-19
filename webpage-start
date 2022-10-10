@@ -23,9 +23,11 @@
 
 
 <! -- make image 1 tableau visual, accessible caption>
-<img id="image1" src="1.jpg" alt="Unemployment Data" width="1000" height="300">
-var img = document.createElement("img");
-    img.src = "1.jpg";
+<script>
+   const img = document.createElement("img");
+img.src = "https://ibb.co/QrcPBTG";
+document.body.appendChild(img);
+</script>
 
 <p font size=3>
 
